@@ -9,7 +9,7 @@ let user = {
     age: 4
 };
 array.push("Xavier");
-array.push("Simão");
+array.push("Simãooo");
 console.log(array);
 console.log(x);
 console.log(user);

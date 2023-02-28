@@ -38,3 +38,11 @@ Then go to file tsconfig.json and in /* Emit */ add or uncomment this line "root
     // "removeComments": true,                           /* Disable emitting comments. */
     // "noEmit": true,         
 </pre>
+
+
+####  Compile your code.
+Go into /src then execute this code in your terminal. 
+```bash
+tsc -w
+
+```

@@ -11,7 +11,7 @@ let user: {name: string, age: number} = {
 }
 
 array.push("Xavier");
-array.push("Simão");
+array.push("Simãooo");
 
 console.log(array);
 console.log(x);
