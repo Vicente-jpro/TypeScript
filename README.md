@@ -42,7 +42,14 @@ Then go to file tsconfig.json and in /* Emit */ add or uncomment this line "root
 
 ####  Compile your code.
 Go into /src then execute this code in your terminal. 
+
 ```bash
 tsc -w
+
+```
+
+Then you can use only this line do execute your code.
+```bash
+tsc 
 
 ```
